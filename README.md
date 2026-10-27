@@ -18,4 +18,5 @@ The SQL leetcode problems I solve are fetched here on successful subission accep
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/1683-invalid-tweets) |
+| [1757-recyclable-and-low-fat-products](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
