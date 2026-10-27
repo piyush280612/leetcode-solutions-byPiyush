@@ -9,6 +9,7 @@ The SQL leetcode problems I solve are fetched here on successful subission accep
 | [0197-rising-temperature](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0577-employee-bonus) |
+| [0595-big-countries](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/1280-students-and-examinations) |
