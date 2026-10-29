@@ -11,6 +11,7 @@ The SQL leetcode problems I solve are fetched here on successful subission accep
 | [0178-rank-scores](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0183-customers-who-never-order](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0197-rising-temperature) |
