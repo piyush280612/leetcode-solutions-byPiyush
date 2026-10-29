@@ -10,6 +10,7 @@ The SQL leetcode problems I solve are fetched here on successful subission accep
 | [0177-nth-highest-salary](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0180-consecutive-numbers) |
+| [0185-department-top-three-salaries](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0577-employee-bonus) |
