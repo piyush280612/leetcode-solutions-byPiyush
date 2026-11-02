@@ -15,6 +15,7 @@ The SQL leetcode problems I solve are fetched here on successful subission accep
 | [0185-department-top-three-salaries](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0197-rising-temperature) |
+| [0550-game-play-analysis-iv](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0584-find-customer-referee) |
