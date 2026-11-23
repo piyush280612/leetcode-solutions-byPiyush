@@ -38,4 +38,16 @@ The SQL leetcode problems I solve are fetched here on successful subission accep
 | [1683-invalid-tweets](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/piyush280612/leetcode-solutions-byPiyush/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
